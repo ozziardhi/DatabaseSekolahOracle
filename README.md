@@ -44,4 +44,4 @@ Ini adalah project sederhana database untuk sistem informasi sekolah menggunakan
 ![Data Guru](pics/Siswa.png)
 
 **menampilkan nilai dari siswa dengan pelajaran b.indonesia di kelas 6a**
-![Data Guru](pics/Siswa.png)
+![Data Guru](pics/join.png)
